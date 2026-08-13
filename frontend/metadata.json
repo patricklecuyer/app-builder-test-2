@@ -1,0 +1,4 @@
+{
+  "name": "Concierge Agent Chat",
+  "description": "A chat interface to interact with the Concierge agent deployed on Vertex AI Agent Platform."
+}
