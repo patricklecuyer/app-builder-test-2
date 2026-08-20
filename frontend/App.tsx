@@ -140,7 +140,7 @@ export default function App() {
             <h1 className="text-xl font-bold text-slate-800 tracking-tight">Concierge</h1>
             <p className="text-xs text-slate-500 font-medium flex items-center gap-1">
               <span className="w-2 h-2 rounded-full bg-emerald-500 inline-block animate-pulse"></span>
-              Agent Platform ADK
+              Agent Platform ADK - Test test test
             </p>
           </div>
         </div>
